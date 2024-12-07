@@ -1,1 +1,1 @@
-# Deployement :- https://sivasaisilla.github.io/Flipclock/
+# Deployment :- https://sivasaisilla.github.io/Flipclock/

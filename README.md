@@ -1,1 +1,1 @@
-# Deployment :- https://sivasaisilla.github.io/Flipclock/
+# [Deployment](https://sivasai-flipclock.netlify.app/)
